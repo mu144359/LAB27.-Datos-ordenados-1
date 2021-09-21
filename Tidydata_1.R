@@ -37,14 +37,15 @@
 #install.packages("remotes")
 #install.packages("datos")
 
-#Cargar paquete tidyverse
+#Cargar paquete tidyverse y tidyr
 library(tidyverse)
 library(tidyr)
 
 #Cargar paquete de datos
 library(datos)
 
-
+#Cargar otras paqueterías para que le la función %>% 
+library(dplyr)
 
 #tabla 1 hasta tabla 4b
 #ver datos como tibble 
