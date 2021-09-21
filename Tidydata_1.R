@@ -44,7 +44,7 @@ library(tidyr)
 #Cargar paquete de datos
 library(datos)
 
-#Cargar otras paqueterías para que le la función %>% 
+#Cargar otras paqueterías para que de la función %>% 
 library(dplyr)
 
 #tabla 1 hasta tabla 4b
