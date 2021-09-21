@@ -29,6 +29,9 @@
 #instalar paquete tidyr
 #install.packages("tidyr")
 
+##instalar paquete dpdyr
+#install.packages("dplyr")
+
 
 #instalar paquete de datos
 #install.packages("remotes")
